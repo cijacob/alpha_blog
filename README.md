@@ -1,24 +1,9 @@
 # README
+This is an application who s has as objective to improve and refresh my knowledge with Ruby and ruby on rails 
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
+At this point it s only a training for fun 
 * Ruby version
 
-* System dependencies
+* Routes 
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Basics Controller / views 
